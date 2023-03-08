@@ -13,6 +13,9 @@
             file="Source/PluginEditor.cpp"/>
       <FILE id="q49SRV" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
     </GROUP>
+    <FILE id="FxUFFj" name="RootComponent.cpp" compile="1" resource="0"
+          file="Source/RootComponent.cpp"/>
+    <FILE id="pJR7Bx" name="RootComponent.h" compile="0" resource="0" file="Source/RootComponent.h"/>
   </MAINGROUP>
   <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
   <EXPORTFORMATS>
